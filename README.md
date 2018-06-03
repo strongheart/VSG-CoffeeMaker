@@ -1,8 +1,8 @@
-# VSG-CoffeeMaker
-Describe Coffeemaker's duties 
-PDF for printing.
-ODT for editing
-HTML for whatever.
+VSG-CoffeeMaker Duties<br>
+Three files included <br>
+PDF for printing.<br>
+ODT for editing<br>
+HTML for whatever.<br>
 
 INDEX:
 I.		Show Up
