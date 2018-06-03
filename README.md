@@ -1,25 +1,18 @@
 VSG-CoffeeMaker Duties<br>
 Three files included <br>
-PDF for printing.<br>
-ODT for editing<br>
-HTML for whatever.<br>
+PDF CoffeeMakerDuties.pdf for printing.<br>
+ODT CoffeeMakerDuties.odt for editing<br>
+HTML CoffeeMakerDuties.html for whatever<br>
 
 INDEX:
-I.		Show Up
-
-II.		Make Coffee and Tea Water	 
-
-III. 	Tidy Up
-
-IV.		Place Literature 
-
-V.		Greet and Assist 
-
-VI. 	Keep a Check on Coffee 
-
-VII.	Cleanup
-
-VIII.	Lockup
+I.		Show Up<br>
+II.		Make Coffee and Tea Water	<br> 
+III. 	Tidy Up<br>
+IV.		Place Literature <br>
+V.		Greet and Assist <br>
+VI. 	Keep a Check on Coffee <br>
+VII.	Cleanup<br>
+VIII.	Lockup<br>
 
 
 
