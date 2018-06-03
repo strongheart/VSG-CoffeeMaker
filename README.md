@@ -4,7 +4,7 @@ PDF CoffeeMakerDuties.pdf for printing.<br>
 ODT CoffeeMakerDuties.odt for editing<br>
 HTML CoffeeMakerDuties.html for whatever<br>
 
-INDEX:
+INDEX:<br>
 I.		Show Up<br>
 II.		Make Coffee and Tea Water	<br> 
 III. 	Tidy Up<br>
