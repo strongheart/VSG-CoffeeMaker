@@ -1,6 +1,10 @@
 # VSG-CoffeeMaker
-Describe Coffeemaker's duties
+Describe Coffeemaker's duties 
+PDF for printing.
+ODT for editing
+HTML for whatever.
 
+INDEX:
 I.		Show Up
 
 II.		Make Coffee and Tea Water	 
@@ -16,3 +20,7 @@ VI. 	Keep a Check on Coffee
 VII.	Cleanup
 
 VIII.	Lockup
+
+
+
+
